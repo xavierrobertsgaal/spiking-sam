@@ -1,3 +1,7 @@
+# Xavier's fork - increasing biological plausibility through incorporating spiking neurons
+
+Thresholded activation functions mimic human neurophysiology more closely than ReLU. Using Whetstone (https://github.com/SNL-NERL/Whetstone), we can convert linear to spike-like activation functions.
+
 # Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model
 This repository contains the reference code for computing SAM (Saliency Attentive Model) saliency maps based on the following paper:
 
